@@ -1,29 +1,41 @@
-name: A Texanist Retrospective
-favicon: null
-layout_spectrum: 0.0034719721879810095
-typography_spectrum: 0.5751174131873995
 title: The Unapologetic Texan
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-27586538-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.2623555702157319
+  brandStrength: 0.1217471261043102
+  rhythmicContrast: 0.07801022683270276
   brandColors:
     - '#ADD7F6'
     - '#87BFFF'
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.12174712610431015
-  lightness: 0.033407305367290974
-  saturation: 0.26235557021573186
-  rhythmicContrast: 0.07801022683270276
-purpose: []
+  lightness: 0.03340730536729097
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: UA-27586538-1
+  facebook: null
+favicon: null
+name: A Texanist Retrospective
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.5238096
+layout_spectrum: 1
