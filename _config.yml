@@ -1,5 +1,8 @@
+name: The Unapologetic Texan
+favicon: null
+layout_spectrum: 0.1134085
+typography_spectrum: 0.5238096
 title: The Unapologetic Texan
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: UA-27586538-1
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.2623555702157319
-  brandStrength: 0.1217471261043102
-  rhythmicContrast: 0.07801022683270276
   brandColors:
     - '#ADD7F6'
     - '#87BFFF'
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
+  brandStrength: 0.1217471261043102
   lightness: 0.03340730536729097
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: UA-27586538-1
-  facebook: null
-favicon: null
-name: A Texanist Retrospective
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.5238096
-layout_spectrum: 0.1134085
+  saturation: 0.2623555702157319
+  rhythmicContrast: 0.07801022683270276
+purpose: []
