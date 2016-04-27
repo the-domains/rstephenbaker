@@ -1,41 +1,41 @@
-name: The Unapologetic Texan
-favicon: null
-layout_spectrum: 0.1134085
-typography_spectrum: 0.5238096
-title: The Unapologetic Texan
+analytics:
+  twitter: null
+  google: UA-27586538-1
+  facebook: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
+layout_spectrum: 0.1134085
+title: The Unapologetic Texan
 cta:
-  domain: null
   bucket: null
   version: null
-analytics:
-  google: UA-27586538-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+  domain: null
 color:
+  saturation: 0.2623555702157319
+  brandStrength: 0.1217471261043102
+  rhythmicContrast: 0.07801022683270276
   brandColors:
     - '#ADD7F6'
     - '#87BFFF'
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.1217471261043102
   lightness: 0.03340730536729097
-  saturation: 0.2623555702157319
-  rhythmicContrast: 0.07801022683270276
 purpose: []
+favicon: null
+name: The Unapologetic Texan
+typography_spectrum: 0.5238096
